@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>xyz.tcbuildmc.tubecord</groupId>
+  <artifactId>tubecord-super</artifactId>
+  <versioning>
+    <versions>
+      <version>dev-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240502121309</lastUpdated>
+  </versioning>
+</metadata>

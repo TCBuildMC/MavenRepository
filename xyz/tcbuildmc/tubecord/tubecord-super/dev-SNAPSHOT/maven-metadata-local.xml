@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>xyz.tcbuildmc.tubecord</groupId>
+  <artifactId>tubecord-super</artifactId>
+  <versioning>
+    <lastUpdated>20240502121309</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>dev-SNAPSHOT</value>
+        <updated>20240502121309</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>dev-SNAPSHOT</version>
+</metadata>

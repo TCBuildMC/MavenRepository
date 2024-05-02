@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>xyz.tcbuildmc.tubecord</groupId>
+  <artifactId>tubecord-module-cmd-alert</artifactId>
+  <versioning>
+    <versions>
+      <version>1.20-R1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240502121309</lastUpdated>
+  </versioning>
+</metadata>
